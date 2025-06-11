@@ -1,0 +1,6 @@
+portfolio/
+├── index.html
+├── images/
+│   ├── photo1.png
+│   └── logo.svg
+└── style.css
